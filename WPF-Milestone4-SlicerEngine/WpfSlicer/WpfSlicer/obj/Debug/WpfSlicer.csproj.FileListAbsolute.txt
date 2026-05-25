@@ -1,0 +1,17 @@
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\bin\Debug\WpfSlicer.exe.config
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\bin\Debug\WpfSlicer.exe
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\bin\Debug\WpfSlicer.pdb
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.csproj.AssemblyReference.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\MainWindow.baml
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\MainWindow.g.cs
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\App.g.cs
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer_MarkupCompile.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.g.resources
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.Properties.Resources.resources
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.csproj.GenerateResource.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.csproj.CoreCompileInputs.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.csproj.CopyComplete
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.exe
+C:\Users\LaurentiuNeacsu\source\repos\WpfSlicer\WpfSlicer\obj\Debug\WpfSlicer.pdb

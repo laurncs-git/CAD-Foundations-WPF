@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfSlicer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Milestone 4: The Slicer Engine" Height="600" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="250"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <StackPanel Grid.Column="0" Background="#f0f0f0" Margin="10">
+            <Button Content="Load .STL File" Click="LoadFile_Click" Padding="10" Margin="0,0,0,20"/>
+
+            <TextBlock Text="Z-Height (Slice Level)" FontWeight="Bold" Margin="0,0,0,5"/>
+            <Slider x:Name="ZSlider" Minimum="0" Maximum="100" Value="10" 
+                    ValueChanged="ZSlider_ValueChanged" Margin="0,0,0,10"/>
+            <TextBlock x:Name="TxtZHeight" Text="Current Z: 10.00 mm" Margin="0,0,0,20"/>
+
+            <TextBlock x:Name="TxtStats" Text="Lines Generated: 0" FontStyle="Italic"/>
+        </StackPanel>
+
+        <Viewbox Grid.Column="1" Margin="20">
+            <Canvas x:Name="SliceCanvas" Width="200" Height="200" Background="#222222">
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</Window>

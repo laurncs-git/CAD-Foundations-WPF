@@ -1,0 +1,14 @@
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\bin\Debug\WpfBezier.exe.config
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\bin\Debug\WpfBezier.exe
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\bin\Debug\WpfBezier.pdb
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.csproj.AssemblyReference.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\MainWindow.baml
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\MainWindow.g.cs
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\App.g.cs
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier_MarkupCompile.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.g.resources
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.Properties.Resources.resources
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.csproj.GenerateResource.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.csproj.CoreCompileInputs.cache
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.exe
+C:\Users\LaurentiuNeacsu\source\repos\WpfBezier\WpfBezier\obj\Debug\WpfBezier.pdb
