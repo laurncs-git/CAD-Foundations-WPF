@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfSketcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Milestone 1: The Parametric Sketcher" Height="600" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal" Background="#f0f0f0">
+            <Button Content="Make Perpendicular" Click="MakePerpendicular_Click" 
+                    Margin="10" Padding="15,5" FontWeight="Bold" Background="#cce5ff"/>
+            <Button Content="Clear Canvas" Click="Clear_Click" 
+                    Margin="0,10,10,10" Padding="15,5"/>
+            <TextBlock x:Name="StatusText" VerticalAlignment="Center" 
+                       Margin="10,0" FontSize="14" Foreground="#333333"
+                       Text="Step 1: Click twice to draw the Reference Line."/>
+        </StackPanel>
+
+        <Canvas x:Name="DrawingCanvas" Grid.Row="1" Background="White" 
+        MouseLeftButtonDown="Canvas_MouseLeftButtonDown"
+        MouseMove="Canvas_MouseMove"
+        MouseLeftButtonUp="Canvas_MouseLeftButtonUp"/>
+    </Grid>
+</Window>
